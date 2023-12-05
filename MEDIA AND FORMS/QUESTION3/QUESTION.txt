@@ -1,0 +1,1 @@
+QUESTION 3: Modify the previous assignment so that audio and video play automatically as the page is loaded and they should play infinitely 
